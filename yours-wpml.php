@@ -16,7 +16,7 @@
  * Plugin Name:       Yours WPML
  * Plugin URI:        http://www.yours.be/plugins/yours-wpml
  * Description:       Lock content that is set by a translated ressource.
- * Version:           1.0.1
+ * Version:           1.0.2
  * Author:            Laurent Snackaert
  * Author URI:        http://www.yours.be
  * License:           GPL-2.0+
