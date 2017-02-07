@@ -1,22 +1,16 @@
 <?php
 
 /**
- * The plugin bootstrap file
- *
- * This file is read by WordPress to generate the plugin information in the plugin
- * admin area. This file also includes all of the dependencies used by the plugin,
- * registers the activation and deactivation functions, and defines a function
- * that starts the plugin.
  *
  * @link              http://www.yours.be
- * @since             1.0.1
+ * @since             1.0
  * @package           Yours_Wpml
  *
  * @wordpress-plugin
  * Plugin Name:       Yours WPML
  * Plugin URI:        http://www.yours.be/plugins/yours-wpml
- * Description:       Lock content that is set by a translated ressource.
- * Version:           1.0.3
+ * Description:       Lock content that is set by a translated resource.
+ * Version:           1.0.4
  * Author:            Laurent Snackaert
  * Author URI:        http://www.yours.be
  * License:           GPL-2.0+
