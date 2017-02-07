@@ -6,7 +6,7 @@ function disableDiv(div) {
 
     var append = "<span style='color:red'>Managed in other language</span>";
     jQuery(div).prepend(append);
-    jQuery(div).css("border", "1px dashed blue");
+    jQuery(div).css("border", "1px dashed red");
     jQuery(div).css("opacity", "0.6");
     jQuery(div).css("pointer-events", "none");
 }
