@@ -9,7 +9,7 @@
  * that starts the plugin.
  *
  * @link              http://www.yours.be
- * @since             1.0.0
+ * @since             1.0.1
  * @package           Yours_Wpml
  *
  * @wordpress-plugin
