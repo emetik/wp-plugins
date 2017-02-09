@@ -42,9 +42,6 @@ function disableDiv(div) {
      * practising this, we should strive to set a better example in our own work.
      */
 
-
-
-
     if ($("#icl_translation_of").length && $("#icl_translation_of").is(':disabled') != true) {
               $(".icl_mcs_cfs:checked").each(function () {
             var val = this.value;
