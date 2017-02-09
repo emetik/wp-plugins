@@ -57,7 +57,7 @@ function disableDiv(div) {
         //categories
         disableDiv("#products_categoriesdiv");
         //features
-        disableDiv("#postimagediv");
+       // disableDiv("#postimagediv");
     }
 
 
